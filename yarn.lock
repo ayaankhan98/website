@@ -3459,12 +3459,12 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
-notebookjs@^0.6.3:
-  version "0.6.3"
-  resolved "https://registry.yarnpkg.com/notebookjs/-/notebookjs-0.6.3.tgz#fde1cea09cb8dd127007f6276fb4468602663a51"
-  integrity sha512-rVv0xMhYZrmkKzYY8r5KnBkuPoyuY7Fnyla8BjCdStOHM/9lD8P7xdjxGtxnd1YNaG5qf0nuPUVTu5EKP1ITKQ==
+notebookjs@^0.6.4:
+  version "0.6.4"
+  resolved "https://registry.yarnpkg.com/notebookjs/-/notebookjs-0.6.4.tgz#80443220ce89a2304192c37782509386793800a2"
+  integrity sha512-OcVsnab6lBaLKhtwI2nyqAX3C1h3i2GPXF5R3Sr24hB76+I5tyU6MYI1kXdQlWl8LAhcgwA+4esT7EGBxwVGyA==
   dependencies:
-    ansi_up "^4.0.4"
+    ansi_up "^5.0.0"
     dompurify "^2.2.6"
     jsdom "^16.4.0"
     marked "^2.0.0"
